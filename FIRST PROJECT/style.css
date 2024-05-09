@@ -1,0 +1,7 @@
+.page-title{text-align: center; color: blue;}
+.pages-paragraph{ color: yellow;}
+#pages{background-color:teal;}
+.images{display:justify-content: end;}
+.theboy{display: flex;justify-content: center; gap: 50px;}
+.container{width: 1300px;margin: auto;}
+.multipleimg{flex: grid;grid-template-columns: 1fr 1fr 1fr;}
